@@ -51,8 +51,8 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-1" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="555" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mKlgSUE7Z-T3jfedxD_o-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="mKlgSUE7Z-T3jfedxD_o-2" value="多语种多模态预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="555" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
