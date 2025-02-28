@@ -56,8 +56,8 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-20" value="语料收集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mKlgSUE7Z-T3jfedxD_o-22" value="日常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="430" width="90" height="30" as="geometry" />
+        <mxCell id="mKlgSUE7Z-T3jfedxD_o-22" value="音频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-23" value="视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="360" width="90" height="30" as="geometry" />
