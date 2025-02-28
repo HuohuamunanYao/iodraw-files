@@ -14,7 +14,7 @@
           <mxGeometry x="590" y="555" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-4" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="140" width="220" height="190" as="geometry" />
+          <mxGeometry x="90" y="620" width="220" height="190" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-1" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mKlgSUE7Z-T3jfedxD_o-4">
           <mxGeometry x="10" y="10" width="130" height="60" as="geometry" />
