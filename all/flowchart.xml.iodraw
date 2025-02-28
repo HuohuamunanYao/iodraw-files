@@ -8,7 +8,7 @@
           <mxGeometry x="-60" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-2" value="多语种多模态预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="278" y="150" width="136" height="60" as="geometry" />
+          <mxGeometry x="290" y="110" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-3" value="多语种场景化智慧学习系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="555" width="160" height="60" as="geometry" />
