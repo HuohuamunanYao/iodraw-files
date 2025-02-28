@@ -38,6 +38,9 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-1" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="110" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mKlgSUE7Z-T3jfedxD_o-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-11" target="mKlgSUE7Z-T3jfedxD_o-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-11" value="日常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="420" width="90" height="30" as="geometry" />
         </mxCell>
