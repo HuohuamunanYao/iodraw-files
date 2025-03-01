@@ -38,7 +38,7 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-1" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5rgIC-PpiJhcmJm2QKRI-6" target="mKlgSUE7Z-T3jfedxD_o-19">
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-11" target="mKlgSUE7Z-T3jfedxD_o-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-11" value="日常" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -83,17 +83,11 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-29" value="校对" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="270" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="420" width="570" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-30" value="清洗" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-80" y="270" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-11" target="5rgIC-PpiJhcmJm2QKRI-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-35" y="460" as="sourcePoint" />
-            <mxPoint x="95" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
