@@ -224,8 +224,8 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-68" value="&lt;b&gt;文本-文本标注/图像-文本标注&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="240" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-69" value="多场景类别资源获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="525" width="60" height="30" as="geometry" />
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-69" value="多场景语言资源获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
