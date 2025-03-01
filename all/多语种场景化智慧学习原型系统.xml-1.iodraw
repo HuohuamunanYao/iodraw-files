@@ -54,6 +54,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-1" target="mKlgSUE7Z-T3jfedxD_o-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-125" y="40" />
+              <mxPoint x="358" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-1" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-190" y="110" width="130" height="60" as="geometry" />
         </mxCell>
