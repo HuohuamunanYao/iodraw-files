@@ -302,7 +302,7 @@
             <mxPoint x="290.0000000000001" y="1244.7250000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;冗余信息、语义不确定性造成的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;冗余信息、语义不确定性造成的多模态翻译性能损失问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="1220" width="292" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-97" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
