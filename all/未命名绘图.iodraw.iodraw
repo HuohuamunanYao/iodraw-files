@@ -290,7 +290,7 @@
             <mxPoint x="290.0000000000001" y="1177.2250000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-93" value="缺少语言学相关的人工标注信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-93" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;缺少语言学相关的人工标注信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="1150" width="292" height="50" as="geometry" />
         </mxCell>
       </root>
