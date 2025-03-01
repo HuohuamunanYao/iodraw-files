@@ -143,7 +143,7 @@
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-28" value="数据处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-29" value="音频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-29" value="数据对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-30" value="特征融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
