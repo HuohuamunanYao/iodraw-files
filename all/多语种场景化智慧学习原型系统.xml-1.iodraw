@@ -166,7 +166,7 @@
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-34" value="校对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="270" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-35" value="清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-35" value="少样本迁移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-36" value="数据编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
