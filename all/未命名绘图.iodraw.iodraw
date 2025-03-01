@@ -215,6 +215,9 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-62" value="人机协同标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
