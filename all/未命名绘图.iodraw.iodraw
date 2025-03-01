@@ -365,7 +365,7 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwgMUIwHFBGobxtsdhl6-128" target="OwgMUIwHFBGobxtsdhl6-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-128" value="多语种多模态预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="1700" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwgMUIwHFBGobxtsdhl6-130" target="OwgMUIwHFBGobxtsdhl6-131">
