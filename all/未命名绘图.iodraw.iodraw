@@ -215,8 +215,8 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-62" value="人机协同标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-65" value="网页爬取/人工筛选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="340" width="60" height="30" as="geometry" />
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-65" value="网页爬取/人工质检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="340" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
