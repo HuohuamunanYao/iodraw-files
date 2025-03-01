@@ -418,9 +418,6 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-144" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="58" y="1840" width="42" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-145" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1848" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
