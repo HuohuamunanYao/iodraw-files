@@ -412,8 +412,8 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-141" value="2.基于风格迁移的 多语种 图 片合成模&lt;br/&gt;型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="1580" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-143" value="复杂场景下多语种图文识别技术研究及系统设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1580" width="60" height="30" as="geometry" />
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-143" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;复杂场景下多语种图文识别技术研究及系统设计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1580" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
