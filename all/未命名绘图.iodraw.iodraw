@@ -416,7 +416,10 @@
           <mxGeometry x="1090" y="1580" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-146" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;面向小语种机械翻译的平行语料库构建方案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1172.5" y="1660" width="275" height="30" as="geometry" />
+          <mxGeometry x="1133.75" y="1660" width="387.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="1825" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
