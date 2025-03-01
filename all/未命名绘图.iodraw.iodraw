@@ -272,7 +272,7 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="80" y="1135" width="550" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究小语种教育资源匮乏原因&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究小语种语料库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1150" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于对多模态大语言模型的思考&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -312,7 +312,7 @@
           <mxGeometry x="1080" y="1150" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究多模态学习问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1220" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="1230" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
