@@ -248,6 +248,9 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-79" value="基于对多模态大语言模型的思考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="850" width="320" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
