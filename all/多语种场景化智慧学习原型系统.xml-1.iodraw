@@ -212,7 +212,7 @@
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-72" value="跨媒体推荐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="915" y="425" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-73" value="人机协同标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
