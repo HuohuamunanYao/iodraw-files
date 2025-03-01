@@ -433,8 +433,8 @@
             <mxPoint x="124.71" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-153" value="跨语种多模态信息分拣技术与应用" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1780" width="210" height="40" as="geometry" />
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-153" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;跨语种多模态信息分拣技术与应用&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1780" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
