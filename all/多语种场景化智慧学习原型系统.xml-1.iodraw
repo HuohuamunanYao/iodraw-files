@@ -24,6 +24,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-2" target="mKlgSUE7Z-T3jfedxD_o-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-2" value="多语种多模态预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="110" width="136" height="60" as="geometry" />
         </mxCell>
@@ -32,11 +35,6 @@
         </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-4" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="620" width="220" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mKlgSUE7Z-T3jfedxD_o-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="358" y="40" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mKlgSUE7Z-T3jfedxD_o-3">
           <mxGeometry relative="1" as="geometry">
