@@ -422,7 +422,7 @@
           <mxGeometry x="50" y="1820" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-149" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;无监督语音分割&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1780" width="20" height="110" as="geometry" />
+          <mxGeometry x="115" y="1780" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-150" value="人工筛检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1780" width="20" height="110" as="geometry" />
