@@ -116,14 +116,6 @@
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="220" width="390" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="5rgIC-PpiJhcmJm2QKRI-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5rgIC-PpiJhcmJm2QKRI-21" target="5rgIC-PpiJhcmJm2QKRI-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="345" y="430" />
-              <mxPoint x="340" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="440" width="350" height="60" as="geometry" />
         </mxCell>
