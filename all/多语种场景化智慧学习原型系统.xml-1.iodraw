@@ -30,6 +30,14 @@
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-2" value="多语种多模态预训练模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="110" width="136" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mKlgSUE7Z-T3jfedxD_o-3" target="mKlgSUE7Z-T3jfedxD_o-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="40" />
+              <mxPoint x="358" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mKlgSUE7Z-T3jfedxD_o-3" value="多语种场景化智慧学习系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="110" width="160" height="60" as="geometry" />
         </mxCell>
@@ -110,6 +118,9 @@
             <mxPoint x="-80" y="220" as="sourcePoint" />
             <mxPoint x="-125" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5rgIC-PpiJhcmJm2QKRI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5rgIC-PpiJhcmJm2QKRI-19" target="5rgIC-PpiJhcmJm2QKRI-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rgIC-PpiJhcmJm2QKRI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="163" y="220" width="390" height="300" as="geometry" />
