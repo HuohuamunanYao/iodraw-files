@@ -219,10 +219,10 @@
           <mxGeometry x="-60" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-66" value="自动句子对齐技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="-175" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-68" value="多类别标注任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="240" width="170" height="30" as="geometry" />
+          <mxGeometry x="-40" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-69" value="多场景语言资源获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="440" width="140" height="30" as="geometry" />
