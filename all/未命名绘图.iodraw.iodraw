@@ -218,6 +218,9 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-65" value="网页爬取/人工质检" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="340" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="241" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
