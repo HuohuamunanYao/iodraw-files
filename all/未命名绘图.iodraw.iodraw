@@ -469,6 +469,9 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-166" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;VR现实增强&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1820" width="30" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-168" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="838" y="1870" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
