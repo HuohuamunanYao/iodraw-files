@@ -369,7 +369,12 @@
           <mxGeometry x="334" y="2650" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwgMUIwHFBGobxtsdhl6-130" target="OwgMUIwHFBGobxtsdhl6-131">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="2580" />
+              <mxPoint x="402" y="2580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-130" value="多语种场景化智慧学习系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="2650" width="160" height="60" as="geometry" />
@@ -396,7 +401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-135" value="多语种多模态教育资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2650" width="130" height="60" as="geometry" />
+          <mxGeometry x="113" y="2650" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
