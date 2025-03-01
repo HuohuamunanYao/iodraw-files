@@ -403,7 +403,7 @@
         <mxCell id="OwgMUIwHFBGobxtsdhl6-135" value="多语种语料库建立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1700" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OwgMUIwHFBGobxtsdhl6-139" value="1." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-139" value="1.无监督的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-140" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;面向低资源场景的语音表示学习及其应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
