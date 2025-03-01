@@ -302,6 +302,11 @@
             <mxPoint x="290.0000000000001" y="1244.7250000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OwgMUIwHFBGobxtsdhl6-99" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OwgMUIwHFBGobxtsdhl6-95">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint x="-9" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OwgMUIwHFBGobxtsdhl6-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;缺少语言学相关的人工标注信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="1220" width="292" height="50" as="geometry" />
         </mxCell>
