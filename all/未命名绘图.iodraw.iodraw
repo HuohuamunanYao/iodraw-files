@@ -80,7 +80,7 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-27" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ECOC 和 GC 分类器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6b6b6b;fillColor=#ffe699;" vertex="1" parent="1">
           <mxGeometry x="325" y="585" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-32" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;输出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;wXFwALwrt1JRmkFuJ008&quot;&gt;情感语句&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-32" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;输出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;wXFwALwrt1JRmkFuJ008&quot;&gt;情感语句&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="315" y="650" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
