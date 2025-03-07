@@ -50,6 +50,9 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-13" value="&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;特征描述&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yp_ZuQAtOqRO0WPjiSJG-14" target="Yp_ZuQAtOqRO0WPjiSJG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-14" value="熵特征分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="90" height="50" as="geometry" />
         </mxCell>
@@ -57,10 +60,7 @@
           <mxGeometry x="368" y="390" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="卷积神经网络&lt;br&gt;特征提取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.589;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yp_ZuQAtOqRO0WPjiSJG-14" target="Yp_ZuQAtOqRO0WPjiSJG-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
