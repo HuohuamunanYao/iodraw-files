@@ -62,6 +62,9 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="&lt;font face=&quot;Garamond&quot;&gt;CNN&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;特征提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#000000;fillColor=#FAE4D5;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp_ZuQAtOqRO0WPjiSJG-22" target="Yp_ZuQAtOqRO0WPjiSJG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="335" y="555" width="30" height="30" as="geometry" />
         </mxCell>
@@ -72,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-27" value="&lt;font face=&quot;Garamond&quot;&gt;ECOC&lt;/font&gt; 和 &lt;font face=&quot;Garamond&quot;&gt;GC&lt;/font&gt; 分类器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="620" width="100" height="50" as="geometry" />
+          <mxGeometry x="300" y="610" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
