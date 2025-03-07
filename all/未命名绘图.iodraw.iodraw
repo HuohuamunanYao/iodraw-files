@@ -19,7 +19,7 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;预处理&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-9" value="单声道通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-9" value="单声道音频通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="190" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
