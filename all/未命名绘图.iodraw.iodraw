@@ -59,7 +59,7 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-15" value="频谱分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="390" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="卷积神经网络&lt;br&gt;特征提取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#000000;fillColor=#FAE4D5;" vertex="1" parent="1">
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;卷积神经网络&lt;br&gt;特征提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#000000;fillColor=#FAE4D5;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
