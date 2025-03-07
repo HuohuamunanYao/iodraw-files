@@ -596,6 +596,9 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.928;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-211" target="UEyT2xhNMkvMzMg97I8M-233">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-340" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="750" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
