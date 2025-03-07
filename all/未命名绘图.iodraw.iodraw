@@ -389,15 +389,6 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-197" value="词汇&lt;div&gt;向量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="-205" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-198" value="C1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="358" y="-150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-199" value="C2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="348.63" y="-185" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-200" value="C3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="303" y="-210" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9673A6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UEyT2xhNMkvMzMg97I8M-336">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="-95" as="sourcePoint" />
@@ -596,6 +587,9 @@
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-6" target="UEyT2xhNMkvMzMg97I8M-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-350" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367" y="-150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
