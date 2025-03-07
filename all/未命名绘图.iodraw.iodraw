@@ -426,7 +426,7 @@
             <mxPoint x="510" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-211" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;gradientColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-211" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;gradientColor=none;fillColor=#f8cecc;strokeColor=#dc9a94;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-344" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
