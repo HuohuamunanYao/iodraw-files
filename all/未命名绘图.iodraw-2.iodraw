@@ -97,7 +97,7 @@
         <mxCell id="dmkcjBpPeoH3ZfKioA4m-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;大模型语言数据：&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="759" y="600" width="170" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="dmkcjBpPeoH3ZfKioA4m-38" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;· 词法、句法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dmkcjBpPeoH3ZfKioA4m-38" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;· 评测标准&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="670" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
