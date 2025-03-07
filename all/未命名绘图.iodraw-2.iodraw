@@ -22,7 +22,7 @@
         <mxCell id="_LQdi-ZvLdO53my241-S-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="70" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_LQdi-ZvLdO53my241-S-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_LQdi-ZvLdO53my241-S-8" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;含暗语的中文语料&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="85" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
