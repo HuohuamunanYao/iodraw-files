@@ -398,8 +398,10 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-200" value="C3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="-210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-203" target="UEyT2xhNMkvMzMg97I8M-206">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UEyT2xhNMkvMzMg97I8M-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="-95" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-208" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UEyT2xhNMkvMzMg97I8M-207">
           <mxGeometry x="0.0718" y="1" relative="1" as="geometry">
@@ -417,7 +419,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-204" value="正常语料向量数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="-100" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-205" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.015;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UEyT2xhNMkvMzMg97I8M-203">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-205" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.015;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9673A6;" edge="1" parent="1" target="UEyT2xhNMkvMzMg97I8M-203">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="-88" as="sourcePoint" />
             <mxPoint x="510" y="-120" as="targetPoint" />
