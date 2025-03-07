@@ -131,7 +131,7 @@
           <mxGeometry x="351.25" y="300" width="73.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-88" value="多头注意力" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="216.5" y="300" width="73.5" height="25" as="geometry" />
+          <mxGeometry x="214.5" y="300" width="73.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
