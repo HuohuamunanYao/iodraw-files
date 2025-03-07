@@ -94,8 +94,8 @@
         <mxCell id="dmkcjBpPeoH3ZfKioA4m-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0066;" vertex="1" parent="1">
           <mxGeometry x="759" y="590" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dmkcjBpPeoH3ZfKioA4m-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;NLP知识库：&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="610" width="130" height="43" as="geometry" />
+        <mxCell id="dmkcjBpPeoH3ZfKioA4m-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;大模型语言数据&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="600" width="150" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
