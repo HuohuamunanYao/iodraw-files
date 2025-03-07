@@ -427,7 +427,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-211" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630" y="240" width="90" height="90" as="geometry" />
+          <mxGeometry x="630" y="230" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-213" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;术语语料向量数据库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="645" y="282.5" width="60" height="30" as="geometry" />
