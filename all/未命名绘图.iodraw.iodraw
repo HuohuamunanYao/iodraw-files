@@ -29,7 +29,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-5" value="正常&lt;div&gt;语料库&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-24.13" y="-100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#F8CECC;strokeColor=#dc9a99;" vertex="1" parent="1">
           <mxGeometry x="-40" y="230" width="81.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-7" value="术语&lt;div&gt;语料库&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -594,7 +594,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-340" target="UEyT2xhNMkvMzMg97I8M-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-6" target="UEyT2xhNMkvMzMg97I8M-8">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-6" target="UEyT2xhNMkvMzMg97I8M-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
