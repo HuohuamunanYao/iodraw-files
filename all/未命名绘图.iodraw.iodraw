@@ -580,7 +580,7 @@
           <mxGeometry x="1520" y="-17.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-327" value="是否是暗语" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1588" y="-17" width="72" height="30" as="geometry" />
+          <mxGeometry x="1580" y="-17.5" width="72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
