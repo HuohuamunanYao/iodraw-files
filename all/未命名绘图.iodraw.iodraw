@@ -600,7 +600,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-340" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="880" y="-95" width="20" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-340" target="UEyT2xhNMkvMzMg97I8M-330">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-345" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.679;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-340" target="UEyT2xhNMkvMzMg97I8M-330">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
