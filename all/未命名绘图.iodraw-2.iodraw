@@ -20,7 +20,7 @@
           <mxGeometry x="60" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R46xRouWaj2tYOJNknfg-11" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;频率（Hz）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="300" width="50" height="20" as="geometry" />
+          <mxGeometry x="100" y="130" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
