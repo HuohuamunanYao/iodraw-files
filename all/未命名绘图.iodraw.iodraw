@@ -473,7 +473,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-230" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;数据归一化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359.75" y="189.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-233">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-233">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="100" as="targetPoint" />
           </mxGeometry>
