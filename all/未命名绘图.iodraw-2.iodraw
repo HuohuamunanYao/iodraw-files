@@ -53,10 +53,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmkcjBpPeoH3ZfKioA4m-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="250" height="130" as="geometry" />
+          <mxGeometry x="600" y="720" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dmkcjBpPeoH3ZfKioA4m-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="750" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
