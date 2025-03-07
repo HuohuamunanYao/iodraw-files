@@ -191,6 +191,9 @@
             <mxPoint x="251.1900000000002" y="217.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-116" target="UEyT2xhNMkvMzMg97I8M-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-116" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="339.25" y="180" width="97.5" height="150" as="geometry" />
         </mxCell>
@@ -378,8 +381,10 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-194" value="词向量&lt;br&gt;聚合器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="22.5" width="85" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-16" target="UEyT2xhNMkvMzMg97I8M-194">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
