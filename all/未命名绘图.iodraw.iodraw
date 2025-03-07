@@ -401,6 +401,9 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-199" value="C2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="339" y="-195" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-200" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-225" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
