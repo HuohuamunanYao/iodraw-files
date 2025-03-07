@@ -19,6 +19,12 @@
         <mxCell id="_LQdi-ZvLdO53my241-S-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;来自狗哨数据集（暗语数据集）&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;的暗语对和参考术语&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_LQdi-ZvLdO53my241-S-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_LQdi-ZvLdO53my241-S-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
