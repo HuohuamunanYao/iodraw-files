@@ -127,7 +127,7 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-84" value="v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-85" value="Multi-Head&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-85" value="Multi-Head&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
