@@ -85,8 +85,8 @@
         <mxCell id="dmkcjBpPeoH3ZfKioA4m-32" value="· 词汇语义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="645" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dmkcjBpPeoH3ZfKioA4m-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="662" width="60" height="30" as="geometry" />
+        <mxCell id="dmkcjBpPeoH3ZfKioA4m-33" value="· 词法、句法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="670" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
