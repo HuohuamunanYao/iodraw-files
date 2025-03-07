@@ -13,7 +13,7 @@
         <mxCell id="R46xRouWaj2tYOJNknfg-4" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;对每行进行滤波&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R46xRouWaj2tYOJNknfg-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R46xRouWaj2tYOJNknfg-6" value="时间（s）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
