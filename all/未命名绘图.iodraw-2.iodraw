@@ -13,6 +13,9 @@
         <mxCell id="_LQdi-ZvLdO53my241-S-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;正常中文语料&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="85" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_LQdi-ZvLdO53my241-S-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
