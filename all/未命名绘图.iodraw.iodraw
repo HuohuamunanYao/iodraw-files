@@ -120,6 +120,9 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-77" value="v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215.25" y="350" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-78" target="UEyT2xhNMkvMzMg97I8M-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-78" value="k" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="20" height="20" as="geometry" />
         </mxCell>
