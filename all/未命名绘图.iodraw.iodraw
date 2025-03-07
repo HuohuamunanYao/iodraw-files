@@ -481,6 +481,9 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-233" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="840" y="-90" width="120" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-239" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-60" width="340" height="355" as="geometry" />
+        </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-235" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="720" y="285" width="130" height="10" as="geometry" />
         </mxCell>
@@ -489,9 +492,6 @@
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-238" value="聚类结果距离计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="220" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UEyT2xhNMkvMzMg97I8M-239" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="-60" width="340" height="355" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
