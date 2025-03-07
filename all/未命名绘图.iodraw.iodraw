@@ -481,6 +481,11 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-233" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="840" y="-90" width="120" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEyT2xhNMkvMzMg97I8M-239">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-239" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-35" width="260" height="270" as="geometry" />
         </mxCell>
@@ -583,7 +588,7 @@
           <mxGeometry x="1580" y="-17.5" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UEyT2xhNMkvMzMg97I8M-328" value="标签化结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="168" width="90" height="30" as="geometry" />
+          <mxGeometry x="1495" y="168" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
