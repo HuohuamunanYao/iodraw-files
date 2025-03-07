@@ -473,6 +473,9 @@
         <mxCell id="UEyT2xhNMkvMzMg97I8M-230" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;数据归一化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359.75" y="189.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UEyT2xhNMkvMzMg97I8M-233" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="910" y="70" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
