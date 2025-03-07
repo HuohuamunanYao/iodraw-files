@@ -37,8 +37,8 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="397.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="410" width="65" height="35" as="geometry" />
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-15" value="频谱分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="397.5" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
