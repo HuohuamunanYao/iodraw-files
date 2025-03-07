@@ -59,7 +59,7 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-15" value="频谱分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="390" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="&lt;font face=&quot;Garamond&quot;&gt;CNN&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;特征提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#000000;fillColor=#FAE4D5;" vertex="1" parent="1">
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;CNN&amp;nbsp;特征提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#000000;fillColor=#FAE4D5;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp_ZuQAtOqRO0WPjiSJG-22" target="Yp_ZuQAtOqRO0WPjiSJG-27">
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-27" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ECOC 和 GC 分类器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6b6b6b;fillColor=#ffe699;" vertex="1" parent="1">
           <mxGeometry x="300" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="690" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
