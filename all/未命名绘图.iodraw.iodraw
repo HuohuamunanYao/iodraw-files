@@ -59,6 +59,9 @@
         <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-18" value="卷积神经网络&lt;br&gt;特征提取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Yp_ZuQAtOqRO0WPjiSJG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.589;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yp_ZuQAtOqRO0WPjiSJG-14" target="Yp_ZuQAtOqRO0WPjiSJG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
