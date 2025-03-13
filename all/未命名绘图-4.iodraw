@@ -476,7 +476,7 @@
           <mxGeometry x="813.75" y="1724" width="116.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0jfJn8yqu_ONAze5288q-2" value="5. 多模态统一任务格式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1790" width="60" height="30" as="geometry" />
+          <mxGeometry x="803.75" y="1800" width="132.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
