@@ -481,7 +481,7 @@
         <mxCell id="0jfJn8yqu_ONAze5288q-3" value="7. 增强推理：后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="1910" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0jfJn8yqu_ONAze5288q-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0jfJn8yqu_ONAze5288q-4" value="8. 多级容忍度选择" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="845" y="1970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
