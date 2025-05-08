@@ -54,8 +54,14 @@
         <mxCell id="E7JdMIvUDYwnbjgEMPxj-14" value="Controller&lt;br&gt;依赖配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="266" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E7JdMIvUDYwnbjgEMPxj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7JdMIvUDYwnbjgEMPxj-15" target="E7JdMIvUDYwnbjgEMPxj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E7JdMIvUDYwnbjgEMPxj-15" value="Service&lt;br&gt;依赖配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="266" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7JdMIvUDYwnbjgEMPxj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E7JdMIvUDYwnbjgEMPxj-16" target="E7JdMIvUDYwnbjgEMPxj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7JdMIvUDYwnbjgEMPxj-16" value="Mapper&lt;br&gt;依赖配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="266" width="60" height="60" as="geometry" />
