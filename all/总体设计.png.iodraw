@@ -53,6 +53,9 @@
         <mxCell id="cZfO5fHauollOc9Y1Mx0-24" value="请求处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cZfO5fHauollOc9Y1Mx0-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
