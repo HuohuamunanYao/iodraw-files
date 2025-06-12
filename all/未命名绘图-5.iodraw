@@ -23,8 +23,8 @@
         <mxCell id="cZfO5fHauollOc9Y1Mx0-1" value="建立连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="100" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZfO5fHauollOc9Y1Mx0-5" value="关闭连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="380" width="85" height="50" as="geometry" />
+        <mxCell id="cZfO5fHauollOc9Y1Mx0-6" value="建立连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="390" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
