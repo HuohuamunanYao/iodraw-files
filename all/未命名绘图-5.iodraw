@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="cZfO5fHauollOc9Y1Mx0-12" value="线程唤起" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cZfO5fHauollOc9Y1Mx0-10">
           <mxGeometry x="-0.0548" y="6" relative="1" as="geometry">
-            <mxPoint x="1" y="-1" as="offset" />
+            <mxPoint x="-6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cZfO5fHauollOc9Y1Mx0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZfO5fHauollOc9Y1Mx0-13" target="cZfO5fHauollOc9Y1Mx0-15">
@@ -52,7 +52,7 @@
         <mxCell id="cZfO5fHauollOc9Y1Mx0-15" value="路由定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZfO5fHauollOc9Y1Mx0-19" value="任务完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cZfO5fHauollOc9Y1Mx0-19" value="任务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
