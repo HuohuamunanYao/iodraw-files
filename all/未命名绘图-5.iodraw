@@ -4,6 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="cZfO5fHauollOc9Y1Mx0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZfO5fHauollOc9Y1Mx0-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cZfO5fHauollOc9Y1Mx0-0" value="线程池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="250" width="100" height="90" as="geometry" />
         </mxCell>
@@ -17,6 +22,9 @@
         </mxCell>
         <mxCell id="cZfO5fHauollOc9Y1Mx0-1" value="建立连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="100" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZfO5fHauollOc9Y1Mx0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="380" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
